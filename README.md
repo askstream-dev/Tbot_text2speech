@@ -1,1 +1,1 @@
-This is my project for testing the text2sppech functionality in telegram-bot development
+This is my project to test the functionality of text2sppech while developing a telegram bot.
