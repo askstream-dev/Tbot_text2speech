@@ -1,4 +1,4 @@
-This is my project to test the functionality of text2sppech while developing a telegram bot.
+This is my project to test the functionality of text2speech while developing a telegram bot.
 
 Please use the command to set the requirements:
 
