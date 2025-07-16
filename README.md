@@ -10,7 +10,7 @@ You will need config.py file with API keys defined. See example below:
 
 ```python
 
-elevenlabs_api_key = "your elevenlabs api_key"
+elevenlabs_api_key = "your elevenlabs_api_key"
 telegram_bot_token = "your telegram_bot_token"
 
 ```
